@@ -1,0 +1,1 @@
+This is an organisation to store and develop our practical works for the [DAI course](https://github.com/heig-vd-dai-course). You can find them pinned just below.
